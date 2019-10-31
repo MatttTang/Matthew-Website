@@ -1,0 +1,50 @@
+.Heading{
+    text-align: center;
+    font-size: 250%;
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+}
+
+.Content{
+    margin: auto;
+    position: relative;
+    top: 25px;
+}
+.container-1{
+    font-size: 145%;
+    float: right;
+    position: relative;
+    right: 20%;
+    top: 15px;
+    margin-top: 0;
+    font-style: italic;
+    font-weight: 300;
+    font-family: 'Merriweather', serif;
+    width: 40%;
+}
+
+.Pix-1{
+    float: left;
+    position: relative;
+    left: 8%;
+    width: 18%;
+}
+
+
+
+.Content-1{
+    margin: auto;
+    position: relative;
+    top: 300px;
+}
+
+.container-2{
+    position: absolute;
+    float: right;
+    width: 40%;
+    right: 20%;
+    margin-top: 75px;
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    font-size: 145%;
+}

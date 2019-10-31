@@ -1,0 +1,15 @@
+.Front{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    padding-top: 3%;
+    font-size: 300%;
+    color: whitesmoke;
+}
+
+.Main-Header{
+    background-image: url("../Images/wall.jpg");
+    background-position-x: 20%;
+    background-position-y: 32%;
+    height: 250px;
+}

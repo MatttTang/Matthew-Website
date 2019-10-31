@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+
+.box-1{
+  margin-top: 80px;
+  font-size: 150%;
+  position: relative;
+  float: left;
+  left: 15%;
+}
+.box-1 p{
+  width: 50%;
+}
+
+.game-pic{
+  position:relative;
+  left: 10%;
+}

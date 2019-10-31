@@ -1,0 +1,15 @@
+iframe{
+    width: 80%;
+    height: 85%;
+    position: absolute;
+    left: 10%;
+}
+
+.Parent{
+    border-top: 100px;
+    height: 900px;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}

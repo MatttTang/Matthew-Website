@@ -1,0 +1,24 @@
+.Navigation{
+    background-color: black;
+    color: white;
+    height: 80px;
+    text-decoration: none;
+}
+
+ul{
+    margin: 0;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    padding-top: 1%;
+}
+
+li{
+    padding: 3%;
+    display: inline;
+    font-size: 200%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
