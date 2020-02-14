@@ -5,3 +5,7 @@ This is a repository holding my React files. I made a template for a website usi
 This is a few pictures of what the whole template looks like:
 
 <img src="React1.JPG?raw=true"/>
+<img src="React2.JPG?raw=true"/>
+<img src="React3.JPG?raw=true"/>
+<img src="React4.JPG?raw=true"/>
+
